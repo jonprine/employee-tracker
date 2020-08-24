@@ -79,5 +79,11 @@ connection.connect((err) => {
         })
   }
 
+  // functions from prompt choice
+
+  function showDepartments() {
+      
+  }
+
   
   
